@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<plugin_version>2.1</plugin_version>                              
+
+<!--Use XcPlugin-Xml-Help Pc Software for compile this -->
+
+<xtream_e2portal_url><![CDATA[yyyyy]]></xtream_e2portal_url>
+<port>XXXX</port>
+<username>XXXX</username>
+<password>XXXX</password>
+
+</items>
+
+
